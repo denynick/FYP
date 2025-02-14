@@ -1,0 +1,25 @@
+[
+    {
+    "title": "Maine Coon: Gentle Giants",
+    "subtitle": "The Largest Domestic Cat Breed",
+    "description": "Known for their impressive size and luxurious coat, Maine Coons are often called the 'gentle giants' of the cat world. These friendly felines can weigh up to 18 pounds and are excellent companions for families.",
+    "tag": "Popular Breed",
+    "imageUrl": "maine-coon-cat.webp"
+    },
+    {
+    "title": "Siamese: Vocal Charmers",
+    "subtitle": "The Social Butterflies",
+    "description": "Siamese cats are known for their striking blue eyes and color-point coats. These intelligent and vocal cats form strong bonds with their humans and are famous for their conversational nature.",
+    "tag": "Talkative",
+    "imageUrl": "siamese-cat.jpg"
+    },
+    {
+    "title": "Persian: Luxury Loungers",
+    "subtitle": "The Classic Lap Cat",
+    "description": "With their distinctive flat faces and long, flowing coats, Persian cats are the epitome of feline luxury. These calm and dignified cats prefer a relaxed indoor lifestyle and regular grooming sessions.",
+    "tag": "High Maintenance",
+    "imageUrl": "persian-cat.jpg"
+    }
+    ]
+    
+    

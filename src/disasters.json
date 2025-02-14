@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "California Wildfires",
+    "description": "Massive wildfires have spread across California, causing evacuations and destruction.",
+    "date": "2024-02-10",
+    "tag": "Wildfire",
+    "image": "wildfire.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Japan Earthquake",
+    "description": "A 7.8 magnitude earthquake struck Japan, triggering a tsunami warning.",
+    "date": "2024-01-25",
+    "tag": "Earthquake",
+    "image": "earthquake.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hurricane Katrina",
+    "description": "One of the deadliest hurricanes in US history, flooding New Orleans.",
+    "date": "2005-08-29",
+    "tag": "Hurricane",
+    "image": "hurricane.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mount St. Helens Eruption",
+    "description": "A major volcanic eruption in Washington state that reshaped the landscape.",
+    "date": "1980-05-18",
+    "tag": "Volcano",
+    "image": "volcano.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Indian Ocean Tsunami",
+    "description": "A devastating tsunami triggered by a 9.1-magnitude earthquake, affecting many countries.",
+    "date": "2004-12-26",
+    "tag": "Tsunami",
+    "image": "tsunami.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Amazon Rainforest Deforestation",
+    "description": "Deforestation continues to threaten the Amazon rainforest, impacting biodiversity and climate.",
+    "date": "Ongoing",
+    "tag": "Environmental Disaster",
+    "image": "deforestation.jpg"
+  }
+]
