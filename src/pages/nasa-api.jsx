@@ -15,7 +15,7 @@ const NasaApi = () => {
     const fetchEvents = async () => {
         try {
             const response = await axios.get('https://eonet.gsfc.nasa.gov/api/v3/events');
-            conasole.log(setEvents(response.data.events));
+            console.log(setEvents(response.data.events));
         } catch (err) {
             setError(err.message);
         } finally {
